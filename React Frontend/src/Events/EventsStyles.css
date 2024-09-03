@@ -1,0 +1,19 @@
+.background
+{
+    background-color: #89CFF0;
+    min-height: 100vh;
+}
+
+.searchAndFilter
+{
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    font-weight: bold;
+}
+
+.eventCard
+{
+    margin: auto;
+    text-align: center;
+}

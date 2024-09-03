@@ -1,0 +1,16 @@
+.NavbarDimensions {
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  width: 300px;
+  height: 100vh;
+  background-color: #339af0; /* Set your desired background color */
+  transition: left 0.3s ease-in-out;
+}
+
+.NavbarDimensions.open {
+  left: 0;
+}
+
+/* Add other necessary styles */

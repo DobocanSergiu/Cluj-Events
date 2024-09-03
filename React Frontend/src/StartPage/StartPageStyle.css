@@ -1,0 +1,38 @@
+.backgroundVideo {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.startPageComponents {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -8rem;
+}
+
+.titleText {
+  font-size: 8rem;
+  font-weight: bold;
+}
+.buttonDistance
+{
+  display: flex;
+  justify-content: space-between;
+  width: 492px;
+}
+.button {
+  font-size: 2rem;
+  color: black;
+  background-color: #ffd580;
+  border-radius: 15px;
+  min-width: 133px;
+  min-height: 55px;
+}

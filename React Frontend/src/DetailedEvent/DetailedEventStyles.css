@@ -1,0 +1,114 @@
+.pageView {
+    width: 100vw;
+    height: 25vh;
+}
+.eventTitle {
+    width: 100vw;
+    height: 5vh;
+    background: orange;
+    opacity: 80%;
+    font-size: 20px;
+}
+.eventInformationBlock {
+    width: 100vw;
+    height: 70vh;
+    background: #89CFF0;
+}
+.leftDataBlock {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.blockSize {
+    width: 60vw;
+    height: 100%;
+}
+
+.eventDescription{
+    width: 100%;
+    height: 80%;
+    background-color: orange;
+    border-radius: 15px;
+    overflow-x: auto;
+    word-wrap: normal;
+}
+
+.eventTags {
+    width: 100%;
+    height: 20%;
+    background-color: white;
+    opacity: 50%;
+    border-radius: 15px;
+}
+
+.rightSideBlock {
+    width: 40vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.dateBlock{
+    display: flex;
+    direction: row;
+    height: 15%;
+    align-items: center;
+}
+.calendarIcon{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+}
+.timeBlock{
+    display: flex;
+    direction: row;
+    height: 15%;
+    align-items: center;
+}
+.clockIcon{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+}
+.adressBlock{
+    display: flex;
+    direction: row;
+    height: 15%;
+    align-items: center;
+}
+.mapIcon{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+}
+.organizerBlock{
+    display: flex;
+    flex-direction: row;
+    height: 15%;
+    align-items: center;
+}
+.organizerIcon{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+}
+.email
+{
+    display: flex;
+    align-items: center;
+    margin-top: -30px;
+    margin-left: 4rem;
+}
+.website{
+    display: flex;
+    align-items: center;
+    margin-left: 4rem;
+}
+.phoneNr
+{
+    display: flex;
+    align-items: center;
+    margin-left: 4rem;
+}

@@ -1,0 +1,39 @@
+.background
+{
+    background-color: #89CFF0;
+    min-height: 100vh;
+}
+
+.filters
+{
+    max-width: 50%;
+    font-weight: bold;
+}
+
+.findEventButton
+{
+    color: black;
+    background-color: #FFD580;
+    border-radius: 15px;
+}
+.listView
+{
+    overflow-y: scroll;
+    max-height: 580px;
+}
+.listType
+{
+    list-style: none;
+}
+.dateTag
+{
+    max-width: 300px;
+    background: linear-gradient(to right, #fffd8d, transparent);
+    border-radius: 5px;
+}
+.mapDimension
+{
+    height: 580px;
+    width: 800px;
+    justify-content: right;
+}
