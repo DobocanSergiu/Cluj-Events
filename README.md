@@ -3,7 +3,12 @@
 
 ClujEvents is a Web application desgined to aggregate and showcase multiple events across the city of Cluj-Napoca. The application uses webscrapppers to collect information from various websites.
 
-  
+  ![image](https://github.com/user-attachments/assets/83887014-94b5-4910-9716-055d8c7b2013)
+  ![image](https://github.com/user-attachments/assets/5377176c-bc1a-48c2-b60c-42766cf61d81)
+  ![image](https://github.com/user-attachments/assets/6993e503-3bcd-4858-80ae-9d99266fe3c6)
+
+
+
 
 ###  Features
 
